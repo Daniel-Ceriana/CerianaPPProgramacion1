@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1589804129 source:c:\users\dceri\desktop\nueva carpeta\primerparcial\ejerciciouno.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicioUno.h"
+
+1589804110 c:\users\dceri\desktop\nueva carpeta\primerparcial\ejerciciouno.h
+
+1589804341 source:c:\users\dceri\desktop\nueva carpeta\primerparcial\ejerciciodos.c
+	<stdio.h>
+	<stdlib.h>
+	"ejercicioDos.h"
+
+1589804272 c:\users\dceri\desktop\nueva carpeta\primerparcial\ejerciciodos.h
+
+1589806413 source:c:\users\dceri\desktop\nueva carpeta\primerparcial\ejerciciotres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicioTres.h"
+
+1589806217 source:c:\users\dceri\desktop\nueva carpeta\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicioUno.h"
+	"ejercicioDos.h"
+	"ejercicioTres.h"
+
+1589806508 c:\users\dceri\desktop\nueva carpeta\primerparcial\ejerciciotres.h
+
